@@ -1,0 +1,8 @@
+{
+  "name": "touch-flip-3d",
+  "version": "1.0.0",
+  "description": "Interactive 3D touch flip library",
+  "main": "TouchFlip3D.js",
+  "author": "labsisouleimen",
+  "license": "MIT"
+}
