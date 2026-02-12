@@ -14,7 +14,7 @@ Check out the interactive demo here:
 👉 [Live Demo on JSFiddle](https://jsfiddle.net/labsisouleimen/743feLta/3/)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f33362f-2d24-4d14-ac08-a1f1fc2b5d7e" width="320">
+  <img src="https://github.com/user-attachments/assets/a9403ab2-e4c6-4e0f-8998-0bd2c4430735" width="320">
 </p>
 
 ---
