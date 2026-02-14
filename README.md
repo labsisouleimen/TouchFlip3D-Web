@@ -57,5 +57,14 @@ Simply use the <touch-flip-3d> tag. Use the slot="front" and slot="back" attribu
 ## 📱 Looking for Android Version?
 Check out the native version for Android: TouchFlip3D-Android
 
-## 📄 License
-This project is licensed under the MIT License.
+---
+
+## 📜 License
+This project is licensed under the **MIT License** - meaning you can freely use, modify, and distribute it, provided you give credit to the original author.
+
+---
+
+## 📩 Let's Connect
+**Developed by Souleimen Labsi **
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/souleimen-labsi-5937783ab/)
+
