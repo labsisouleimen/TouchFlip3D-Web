@@ -8,6 +8,9 @@ Markdown
 A professional, lightweight, and high-performance **3D Touch-Flip** Web Component. Create stunning interactive cards that respond to touch gestures and mouse movements with zero dependencies.
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8ef4713-f42b-4ae1-a37d-b32f7302c07c" width="320">
+</p>
 
 ## 📸 Live Demo
 Check out the interactive demo here:  
