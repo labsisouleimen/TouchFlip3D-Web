@@ -9,16 +9,13 @@ A professional, lightweight, and high-performance **3D Touch-Flip** Web Componen
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8ef4713-f42b-4ae1-a37d-b32f7302c07c" width="320">
+  <img src="https://github.com/user-attachments/assets/a8ef4713-f42b-4ae1-a37d-b32f7302c07c" width="600">
 </p>
 
 ## 📸 Live Demo
 Check out the interactive demo here:  
 👉 [Live Demo on JSFiddle](https://jsfiddle.net/labsisouleimen/743feLta/3/)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a9403ab2-e4c6-4e0f-8998-0bd2c4430735" width="320">
-</p>
 
 ---
 
@@ -32,6 +29,16 @@ Check out the interactive demo here:
 ---
 
 ## 📦 Installation
+### 1️⃣ Option A: Using NPM (For Modern Apps)
+If you are using Node.js, React, Vue, or Vite:
+
+**Install:**
+```bash
+npm install touch-flip-3d-web
+```
+## Import in your JavaScript:
+
+import 'touch-flip-3d-web';
 
 ### Using CDN (Recommended)
 Add the following script to your HTML `<head>` section:
