@@ -37,8 +37,10 @@ If you are using Node.js, React, Vue, or Vite:
 npm install touch-flip-3d-web
 ```
 ## Import in your JavaScript:
+```bash
 
 import 'touch-flip-3d-web';
+```
 
 ### Using CDN (Recommended)
 Add the following script to your HTML `<head>` section:
