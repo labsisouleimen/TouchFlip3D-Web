@@ -4,6 +4,8 @@ Markdown
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![v1.0.0](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/labsisouleimen/TouchFlip3D-Web/releases)
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/labsisouleimen/TouchFlip3D-Web/badge)](https://www.jsdelivr.com/package/gh/labsisouleimen/TouchFlip3D-Web)
+[![NPM Downloads](https://img.shields.io/npm/dm/touch-flip-3d-web.svg)](https://www.npmjs.com/package/touch-flip-3d-web)
+[![NPM Version](https://img.shields.io/npm/v/touch-flip-3d-web.svg)](https://www.npmjs.com/package/touch-flip-3d-web)
 
 A professional, lightweight, and high-performance **3D Touch-Flip** Web Component. Create stunning interactive cards that respond to touch gestures and mouse movements with zero dependencies.
 
