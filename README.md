@@ -1,4 +1,3 @@
-Markdown
 # 🔄 TouchFlip3D-Web
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -67,6 +66,28 @@ Simply use the <touch-flip-3d> tag. Use the slot="front" and slot="back" attribu
   </div>
 </touch-flip-3d>
 ```
+
+Optional `max-rotation-x` and `max-rotation-y` attributes limit drag rotation in degrees. Both axes are unlimited by default.
+
+```html
+<touch-flip-3d max-rotation-x="20" max-rotation-y="45">
+  <!-- front and back slots -->
+</touch-flip-3d>
+```
+
+The same limits can be changed through the `maxRotationX` and `maxRotationY` properties.
+
+The following optional settings are also available. They can be written as `true` or `false` attributes, or changed through their matching camel-case properties:
+
+```html
+<touch-flip-3d return-to-normal="true" wiggle="true" shine="true">
+  <!-- front and back slots -->
+</touch-flip-3d>
+```
+
+- `return-to-normal`: snaps to the nearest front or back position when dragging ends.
+- `wiggle`: tilts the card toward the cursor while the cursor is over it.
+- `shine`: displays a moving highlight based on the current tilt.
 ---
 ## 📱 Looking for Android Version?
 Check out the native version for Android: TouchFlip3D-Android
@@ -81,4 +102,3 @@ This project is licensed under the **MIT License** - meaning you can freely use,
 ## 📩 Let's Connect
 **Developed by Souleimen Labsi **
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/souleimen-labsi-5937783ab/)
-
