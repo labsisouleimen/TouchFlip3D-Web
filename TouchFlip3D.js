@@ -41,10 +41,13 @@ export default class TouchFlip3D extends HTMLElement {
                 left: 0;
                 width: 100% !important; 
                 height: 100% !important; 
+                transform-style: preserve-3d !important;
                 backface-visibility: hidden !important; 
                 -webkit-backface-visibility: hidden !important;
             }
-            /* The magic here: ensure the back face is always flipped with !important */
+            ::slotted([slot="front"]) {
+                transform: rotateY(0deg) !important;
+            }
             ::slotted([slot="back"]) { 
                 transform: rotateY(180deg) !important; 
             }
