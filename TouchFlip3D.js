@@ -31,8 +31,8 @@ export default class TouchFlip3D extends HTMLElement {
                 pointer-events: none;
                 z-index: 10;
                 border-radius: inherit;
-                background: radial-gradient(circle at var(--shine-x) var(--shine-y), rgba(255, 255, 255, 0.45), transparent 42%);
-                opacity: var(--shine-opacity); /* TODO */
+                background: radial-gradient(circle at var(--shine-x) var(--shine-y), rgba(255, 255, 255, 0.15) 5%, transparent 30%);
+                opacity: var(--shine-opacity);
                 transition: opacity 0.15s ease-out;
             }
             ::slotted(*) { 
